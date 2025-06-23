@@ -5,7 +5,7 @@ def admin():
         print("\n  === Admin Panel ===  ")
         print("1. Add Teacher")
         print("2. View All Teachers")
-        # print("3. Exit Admin Panel")
+        print("3. Exit Admin Panel")
 
         choice = input("Choose an option between 1 and 3: ")
         if choice == "1":
